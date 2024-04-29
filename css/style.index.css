@@ -1,10 +1,92 @@
+#opciones-navbar{
+    padding-left: 55%;
+}
 
 
-#contenedor{
-    display: flex;
+#texto-encabezado{
+    text-align: center;
+    font-size: 250%;
+    position: absolute;
+    top: 60%;
+    left: 25%;
+    color: aliceblue;
+    width: 50%;
+}
+
+#titulo-encabezado{
+    text-align: center;
+    font-size: 650%;
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    color:#00CCFF;
+    width: 50%;
+}
+
+#imagen-encabezado{
     width: 100%;
 }
 
-.texto-nav{
-    
+#resaltado{
+    color: #00CCFF;
+}
+
+#comienzo-al-top{
+    width: 100%;
+    text-align: center;
+    align-content: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: rgba(128, 128, 128, 0.1);
+    font-size: 250%;
+}
+
+#videojuegos{
+    width: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#titulo-top{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+#primer-juego{
+    width: 100%;
+    display: flex;
+}
+
+#seccion-imagen{
+    width: 50%;
+    padding-left: 10%;
+}
+
+#seccion-juego{
+    width: 50%;
+    padding-right: 10%;
+    padding-left: 2%;
+    padding-top: 3%;
+}
+
+#descripcion-general{
+    font-size: 165%;
+    text-decoration: none;
+    color: black;
+}
+
+#boton-general{
+    padding-top: 15%;
+    font-size: 200%;
+    text-align: center;
+    align-content: center;
+}
+
+#boton{
+    background-color: #00CCFF;
+    border: 2px solid black;
+}
+
+#imagen{
+    width: 100%;
 }
