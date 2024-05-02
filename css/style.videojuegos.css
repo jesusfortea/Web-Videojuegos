@@ -1,3 +1,4 @@
+
 #opciones-navbar{
     padding-left: 55%;
 }
@@ -41,4 +42,62 @@
 #descripción{
     width: 50%;
     font-size: 130%;
+}
+
+#trailer{
+    width: 100%;
+    text-align: center;
+    padding-right: 5%;
+}
+
+#resaltado{
+    color: #00CCFF;
+}
+
+#informacion{
+    display: flex;
+    font-size: 140%;
+}
+
+#info-texto{
+    padding-left: 20%;
+    color: #00CCFF;
+}
+
+#info-texto-2{
+    padding-left: 2%;
+}
+
+#imagen{
+    text-align: center;
+}
+
+#cont-boton{
+    padding-top: 3%;
+}
+
+#boton{
+    background-color: #00ccff46;
+    border: 2px solid black;
+    font-size: 220%;
+}
+
+#carrusel{
+    width: 100%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+#carrusel-contenido{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+#footer{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.1);
+    align-content: center;
+    text-align: center;
+    padding-top: 1%;
+    font-size: 200%;
 }
