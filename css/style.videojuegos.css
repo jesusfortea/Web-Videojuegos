@@ -1,0 +1,44 @@
+#opciones-navbar{
+    padding-left: 55%;
+}
+
+#texto-encabezado{
+    text-align: center;
+    font-size: 250%;
+    position: absolute;
+    top: 60%;
+    left: 25%;
+    color: black;
+    width: 50%;
+}
+
+#titulo-encabezado{
+    text-align: center;
+    font-size: 650%;
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    color:black;
+    width: 50%;
+}
+
+#imagen-encabezado{
+    width: 100%;
+}
+
+#Título{
+    width: 100%;
+    text-align: center;
+    font-size: 300%;
+    padding-top: 2%;
+}
+
+#contenido-general{
+    display: flex;
+    width: 100%;
+}
+
+#descripción{
+    width: 50%;
+    font-size: 130%;
+}
