@@ -45,6 +45,7 @@
     width: 100%;
     padding-left: 10%;
     padding-right: 10%;
+    padding-bottom: 3%;
 }
 
 #titulo-top{
@@ -89,4 +90,14 @@
 
 #imagen{
     width: 100%;
+    border: 3px solid black;
+}
+
+#footer{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.1);
+    align-content: center;
+    text-align: center;
+    padding-top: 1%;
+    font-size: 200%;
 }
