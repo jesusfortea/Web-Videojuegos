@@ -13,11 +13,41 @@
     width: 50%;
 }
 
+#texto-encabezado-blanco{
+    text-align: center;
+    font-size: 250%;
+    position: absolute;
+    top: 60%;
+    left: 25%;
+    color: white;
+    width: 50%;
+}
+
 #titulo-encabezado{
     text-align: center;
     font-size: 650%;
     position: absolute;
     top: 30%;
+    left: 25%;
+    color:black;
+    width: 50%;
+}
+
+#titulo-encabezado-blanco{
+    text-align: center;
+    font-size: 400%;
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    color:white;
+    width: 50%;
+}
+
+#titulo-encabezado-largo{
+    text-align: center;
+    font-size: 450%;
+    position: absolute;
+    top: 40%;
     left: 25%;
     color:black;
     width: 50%;
@@ -42,6 +72,7 @@
 #descripción{
     width: 50%;
     font-size: 130%;
+    text-align: justify;
 }
 
 #trailer{
@@ -70,6 +101,21 @@
 
 #imagen{
     text-align: center;
+    width: 40%;
+}
+
+#carcasa-grande{
+    width: 40%;
+}
+
+#carcasa-minecraft{
+    width: 70%;
+    padding-bottom: 6%;
+}
+
+#carcasa-lethal{
+    width: 40%;
+    padding-bottom: 6%;
 }
 
 #cont-boton{
