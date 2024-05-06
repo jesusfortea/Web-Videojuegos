@@ -11,36 +11,29 @@
 <body>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
-        <div id="navbar" class="container-fluid">
-          <a class="navbar-brand" id="texto-navbar" href="../index.html">WorldGame</a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="opciones-navbar">
-            <ol class="navbar-nav me-auto mb-2 mb-lg-0">
-              <li id="opcion" class="nav-item">
-                <a class="nav-link active" id="texto-navbar" aria-current="page" href="../view/videojuego1.html">GTA V</a>
-              </li>
-              
-              <li id="opcion" class="nav-item">
-                <a class="nav-link active" id="texto-navbar" href="../view/videojuego2.html">Red Dead Redemption II</a>
-              </li>
-              
-              <li id="opcion" class="nav-item">
-                <a class="nav-link active" id="texto-navbar" href="../view/videojuego3.html">Minecraft</a>
-              </li>
-              
-              <li id="opcion" class="nav-item">
-                <a class="nav-link active" id="texto-navbar" href="../view/videojuego4.html">Lethal Company</a>
-              </li>
-            
-              <li id="opcion" class="nav-item">
-                <a class="nav-link active" id="texto-navbar" href="../view/videojuego5.html">EA FC 24</a>
-              </li>
-            </ol>
+      <div id="navbar" class="container-fluid">
+        <a class="navbar-brand" id="texto-navbar" href="../index.html">WorldGame</a>
+        <div id="opciones-navbar">
+          <div class="navbar-nav me-auto mb-2 mb-lg-0">
+            <div class="nav-item">
+              <a class="nav-link active" id="texto-navbar" aria-current="page" href="./videojuego1.html">GTA V</a>
+            </div>
+            <div class="nav-item">
+              <a class="nav-link active" id="texto-navbar" href="./videojuego2.html">Red Dead Redemption II</a>
+            </div>
+            <div class="nav-item">
+              <a class="nav-link active" id="texto-navbar" href="./videojuego3.html">Minecraft</a>
+            </div>
+            <div class="nav-item">
+              <a class="nav-link active" id="texto-navbar" href="./videojuego4.html">Lethal Company</a>
+            </div>
+            <div class="nav-item">
+              <a class="nav-link active" id="texto-navbar" href="./videojuego5.html">EA FC 24</a>
+            </div>
           </div>
         </div>
-    </nav>
+      </div>
+  </nav>
 
     <div id="encabezado">
         <img id="imagen-encabezado" src="../img/encabezados/GTAV.png" alt="No se ha podido cargar la iamgen">
@@ -54,7 +47,7 @@
         </div>
         <div id="contenido-general">
             <div id="imagen">
-                <img src="../img/videojuegos/GTAV-carcasa.png" alt="No se ha podido cargar la imagen">
+                <img id="carcasa-gtav" src="../img/videojuegos/GTAV-carcasa.png" alt="No se ha podido cargar la imagen">
                 <div id="informacion">   
                     <p id="info-texto">Edad:</p><p id="info-texto-2">+18</p>
                 </div>
@@ -75,8 +68,8 @@
             </div>
             <div id="descripción">
                 <p>Nueve años después de un robo fallido en la ciudad ficticia de <b id="resaltado">Ludendorff</b>, <b id="resaltado">North Yankton</b>, el ex ladrón de bancos <b id="resaltado">Michael Townley</b> y su familia se mudaron a <b id="resaltado">Los Santos</b> con una nueva identidad. <b id="resaltado">Michael</b> lleva una vida normal pero aburrida, hasta que se encuentra con <b id="resaltado">Franklin Clinton</b>, un gángster que busca ascender en el inframundo de <b id="resaltado">Los Santos</b>, e inesperadamente se encuentra con <b id="resaltado">Trevor Philips</b>, el único otro sobreviviente del robo a un banco en <b id="resaltado">Ludendorff</b>. Los tres unen sus fuerzas para llevar a cabo una audaz tarea de robar el <b id="resaltado">Union Depository</b> y apoderarse de decenas de millones de dólares en oro. Sin embargo, los federales corruptos se aprovechan del trío, usándolos para llevar a cabo su propia agenda, así como numerosos enfrentamientos con bandas rivales y otros delincuentes.</p>
-                <div id="trailer">
-                    <iframe width="710" height="399" src="https://www.youtube.com/embed/hvoD7ehZPcM" title="Grand Theft Auto V: The Official Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <div>
+                    <iframe id="trailer" width="710" height="399" src="https://www.youtube.com/embed/hvoD7ehZPcM" title="Grand Theft Auto V: The Official Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
             </div>
         </div>

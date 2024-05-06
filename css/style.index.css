@@ -101,3 +101,690 @@
     padding-top: 1%;
     font-size: 200%;
 }
+
+@media screen and (max-width: 1489px) {
+    #opciones-navbar{
+        padding-left: 45%;
+    }
+}
+
+@media screen and (max-width: 1281px) {
+    #opciones-navbar{
+        padding-left: 45%;
+    }
+}
+
+
+@media screen and (max-width: 1223px) {
+    #opciones-navbar{
+        padding-left: 40%;
+    }
+}
+
+@media screen and (max-width: 1133px) {
+    #opciones-navbar{
+        padding-left: 37%;
+    }
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 200%;
+        position: absolute;
+        top: 50%;
+        left: 25%;
+        color: aliceblue;
+        width: 50%;
+    }
+    
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 600%;
+        position: absolute;
+        top: 25%;
+        left: 25%;
+        color:#00CCFF;
+        width: 50%;
+    }
+
+    #descripcion-general{
+        font-size: 135%;
+        text-decoration: none;
+        color: black;
+    }
+    
+    #boton-general{
+        padding-top: 12%;
+        font-size: 180%;
+        text-align: center;
+        align-content: center;
+    }
+}
+
+@media screen and (max-width: 1073px) {
+    #opciones-navbar{
+        padding-left: 35%;
+    }
+
+    #descripcion-general{
+        font-size: 125%;
+        text-decoration: none;
+        color: black;
+    }
+    
+    #boton-general{
+        padding-top: 6%;
+        font-size: 150%;
+        text-align: center;
+        align-content: center;
+    }
+}
+
+@media screen and (max-width: 1043px) {
+    #opciones-navbar{
+        padding-left: 32%;
+    }
+}
+
+@media screen and (max-width: 995px) {
+    #opciones-navbar{
+        padding-left: 30%;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    #opciones-navbar{
+        padding-left: 27%;
+    }
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 200%;
+        position: absolute;
+        top: 65%;
+        left: 25%;
+        color: aliceblue;
+        width: 50%;
+    }
+    
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 600%;
+        position: absolute;
+        top: 36%;
+        left: 23%;
+        color:#00CCFF;
+        width: 50%;
+    }
+
+    #descripcion-general{
+        font-size: 115%;
+        text-decoration: none;
+        color: black;
+    }
+    
+    #boton-general{
+        padding-top: 12%;
+        font-size: 160%;
+        text-align: center;
+        align-content: center;
+    }
+}
+
+@media screen and (max-width: 988px) {
+    #opciones-navbar{
+        padding-left: 27%;
+        font-size: 93%;
+    }
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 200%;
+        position: absolute;
+        top: 65%;
+        left: 25%;
+        color: aliceblue;
+        width: 50%;
+    }
+    
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 600%;
+        position: absolute;
+        top: 36%;
+        left: 23%;
+        color:#00CCFF;
+        width: 50%;
+    }
+
+    #descripcion-general{
+        font-size: 115%;
+        text-decoration: none;
+        color: black;
+    }
+    
+    #boton-general{
+        padding-top: 12%;
+        font-size: 160%;
+        text-align: center;
+        align-content: center;
+    }
+}
+
+@media screen and (max-width: 946px) {
+    #opciones-navbar{
+        padding-left: 26%;
+        font-size: 90%;
+    }
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 160%;
+        position: absolute;
+        top: 65%;
+        left: 25%;
+        color: aliceblue;
+        width: 50%;
+    }
+    
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 550%;
+        position: absolute;
+        top: 36%;
+        left: 23%;
+        color:#00CCFF;
+        width: 50%;
+    }
+
+    #descripcion-general{
+        font-size: 115%;
+        text-decoration: none;
+        color: black;
+    }
+    
+    #boton-general{
+        padding-top: 12%;
+        font-size: 160%;
+        text-align: center;
+        align-content: center;
+    }
+
+    #comienzo-al-top{
+        width: 100%;
+        text-align: center;
+        align-content: center;
+        padding-top: 2%;
+        padding-bottom: 2%;
+        background-color: rgba(128, 128, 128, 0.1);
+        font-size: 220%;
+    }
+
+    #titulo-top{
+        padding-top: 2%;
+        padding-bottom: 2%;
+        font-size: 160%;
+    }
+}
+
+@media screen and (max-width: 836px) {
+    #opciones-navbar{
+        padding-left: 26%;
+        font-size: 90%;
+    }
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 150%;
+        position: absolute;
+        top: 65%;
+        left: 25%;
+        color: aliceblue;
+        width: 50%;
+    }
+    
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 500%;
+        position: absolute;
+        top: 36%;
+        left: 23%;
+        color:#00CCFF;
+        width: 50%;
+    }
+
+    #descripcion-general{
+        font-size: 100%;
+        text-decoration: none;
+        color: black;
+    }
+    
+    #boton-general{
+        padding-top: 12%;
+        font-size: 120%;
+        text-align: center;
+        align-content: center;
+    }
+
+    #comienzo-al-top{
+        width: 100%;
+        text-align: center;
+        align-content: center;
+        padding-top: 2%;
+        padding-bottom: 2%;
+        background-color: rgba(128, 128, 128, 0.1);
+        font-size: 200%;
+    }
+
+    #footer{
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0.1);
+        align-content: center;
+        text-align: center;
+        padding-top: 1%;
+        font-size: 150%;
+    }
+}
+
+@media screen and (max-width: 786px) {
+    #texto-encabezado{
+        text-align: center;
+        font-size: 140%;
+        position: absolute;
+        top: 60%;
+        left: 25%;
+        color: aliceblue;
+        width: 50%;
+    }
+    
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 470%;
+        position: absolute;
+        top: 35%;
+        left: 23%;
+        color:#00CCFF;
+        width: 50%;
+    }
+
+    #descripcion-general{
+        font-size: 90%;
+        text-decoration: none;
+        color: black;
+    }
+    
+    #boton-general{
+        padding-top: 12%;
+        font-size: 110%;
+        text-align: center;
+        align-content: center;
+    }
+
+}
+
+@media screen and (max-width: 726px) {
+
+    #descripcion-general{
+        font-size: 80%;
+        text-decoration: none;
+        color: black;
+    }
+    
+    #boton-general{
+        padding-top: 12%;
+        font-size: 100%;
+        text-align: center;
+        align-content: center;
+    }
+
+    #titulo-top{
+        padding-top: 2%;
+        padding-bottom: 2%;
+        font-size: 140%;
+    }
+}
+
+@media screen and (max-width: 678px) {
+
+    #descripcion-general{
+        font-size: 80%;
+        text-decoration: none;
+        color: black;
+    }
+    
+    #boton-general{
+        padding-top: 12%;
+        font-size: 100%;
+        text-align: center;
+        align-content: center;
+    }
+
+    #titulo-top{
+        padding-top: 2%;
+        padding-bottom: 2%;
+        font-size: 130%;
+    }
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 135%;
+        position: absolute;
+        top: 55%;
+        left: 25%;
+        color: aliceblue;
+        width: 50%;
+    }
+    
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 450%;
+        position: absolute;
+        top: 35%;
+        left: 20%;
+        color:#00CCFF;
+        width: 50%;
+    }
+
+    #comienzo-al-top{
+        width: 100%;
+        text-align: center;
+        align-content: center;
+        padding-top: 2%;
+        padding-bottom: 2%;
+        background-color: rgba(128, 128, 128, 0.1);
+        font-size: 150%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+
+    #descripcion-general{
+        font-size: 70%;
+        text-decoration: none;
+        color: black;
+    }
+    
+    #boton-general{
+        padding-top: 12%;
+        font-size: 90%;
+        text-align: center;
+        align-content: center;
+    }
+
+    #titulo-top{
+        padding-top: 2%;
+        padding-bottom: 2%;
+        font-size: 100%;
+    }
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 115%;
+        position: absolute;
+        top: 55%;
+        left: 27%;
+        color: aliceblue;
+        width: 50%;
+    }
+    
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 430%;
+        position: absolute;
+        top: 35%;
+        left: 18%;
+        color:#00CCFF;
+        width: 50%;
+    }
+
+    #comienzo-al-top{
+        width: 100%;
+        text-align: center;
+        align-content: center;
+        padding-top: 4%;
+        padding-bottom: 2%;
+        background-color: rgba(128, 128, 128, 0.1);
+        font-size: 130%;
+    }
+
+    #footer{
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0.1);
+        align-content: center;
+        text-align: center;
+        padding-top: 1%;
+        font-size: 130%;
+    }
+}
+
+@media screen and (max-width: 550px) {
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 100%;
+        position: absolute;
+        top: 53%;
+        left: 27%;
+        color: aliceblue;
+        width: 50%;
+    }
+    
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 400%;
+        position: absolute;
+        top: 35%;
+        left: 18%;
+        color:#00CCFF;
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 350%;
+        position: absolute;
+        top: 35%;
+        left: 20%;
+        color:#00CCFF;
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 280%;
+        position: absolute;
+        top: 35%;
+        left: 26%;
+        color:#00CCFF;
+        width: 50%;
+    }
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 90%;
+        position: absolute;
+        top: 50%;
+        left: 27%;
+        color: aliceblue;
+        width: 50%;
+    }
+
+    #comienzo-al-top{
+        width: 100%;
+        text-align: center;
+        align-content: center;
+        padding-top: 4%;
+        padding-bottom: 2%;
+        background-color: rgba(128, 128, 128, 0.1);
+        font-size: 100%;
+    }
+
+    #footer{
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0.1);
+        align-content: center;
+        text-align: center;
+        padding-top: 3%;
+        font-size: 100%;
+    }
+
+    #descripcion-general{
+        font-size: 50%;
+        text-decoration: none;
+        color: black;
+    }
+    
+    #boton-general{
+        padding-top: 7%;
+        font-size: 70%;
+        text-align: center;
+        align-content: center;
+    }
+}
+
+@media screen and (max-width: 422px) {
+    
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 250%;
+        position: absolute;
+        top: 33%;
+        left: 22%;
+        color:#00CCFF;
+        width: 50%;
+    }
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 80%;
+        position: absolute;
+        top: 42%;
+        left: 25%;
+        color: aliceblue;
+        width: 50%;
+    }
+
+    #opciones-navbar{
+        padding-left: 26%;
+        font-size: 80%;
+    }
+}
+
+@media screen and (max-width: 398px) {
+    #descripcion-general{
+        font-size: 45%;
+        text-decoration: none;
+        color: black;
+    }
+    
+    #boton-general{
+        padding-top: 7%;
+        font-size: 60%;
+        text-align: center;
+        align-content: center;
+    }
+
+    #opciones-navbar{
+        padding-left: 26%;
+        font-size: 70%;
+    }
+
+    #footer{
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0.1);
+        align-content: center;
+        text-align: center;
+        padding-top: 3%;
+        font-size: 70%;
+    }
+
+    #comienzo-al-top{
+        width: 100%;
+        text-align: center;
+        align-content: center;
+        padding-top: 4%;
+        padding-bottom: 2%;
+        background-color: rgba(128, 128, 128, 0.1);
+        font-size: 70%;
+    }
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 80%;
+        position: absolute;
+        top: 42%;
+        left: 25%;
+        color: aliceblue;
+        width: 50%;
+    }
+
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 250%;
+        position: absolute;
+        top: 30%;
+        left: 22%;
+        color:#00CCFF;
+        width: 50%;
+    }
+
+}
+
+@media screen and (max-width: 357px) {
+
+    #opciones-navbar{
+        padding-left: 26%;
+        font-size: 60%;
+    }
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 80%;
+        position: absolute;
+        top: 39%;
+        left: 25%;
+        color: aliceblue;
+        width: 50%;
+    }
+
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 250%;
+        position: absolute;
+        top: 28%;
+        left: 19%;
+        color:#00CCFF;
+        width: 50%;
+    }
+
+}
+
+@media screen and (max-width: 340px) {
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 70%;
+        position: absolute;
+        top: 39%;
+        left: 25%;
+        color: aliceblue;
+        width: 50%;
+    }
+
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 230%;
+        position: absolute;
+        top: 28%;
+        left: 20%;
+        color:#00CCFF;
+        width: 50%;
+    }
+
+
+}

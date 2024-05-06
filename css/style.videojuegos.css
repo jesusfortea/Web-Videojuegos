@@ -104,6 +104,10 @@
     width: 40%;
 }
 
+#carcasa-gtav{
+    width: 100%;
+}
+
 #carcasa-grande{
     width: 40%;
 }
@@ -146,4 +150,687 @@
     text-align: center;
     padding-top: 1%;
     font-size: 200%;
+}
+
+@media screen and (max-width: 1488px) {
+    #opciones-navbar{
+        padding-left: 50%;
+    }
+}
+
+@media screen and (max-width: 1435px) {
+    #opciones-navbar{
+        padding-left: 50%;
+    }
+    #informacion{
+        display: flex;
+        font-size: 120%;
+    }
+}
+
+@media screen and (max-width: 1342px) {
+    #opciones-navbar{
+        padding-left: 45%;
+    }
+    #informacion{
+        display: flex;
+        font-size: 120%;
+    }
+}
+
+@media screen and (max-width: 1236px) {
+    #informacion{
+        display: flex;
+        font-size: 110%;
+    }
+
+    #trailer{
+        width: 100%;
+        text-align: center;
+        padding-right: 5%;
+    }
+}   
+
+@media screen and (max-width: 1221px) {
+
+    #opciones-navbar{
+        padding-left: 40%;
+    }
+
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 600%;
+        position: absolute;
+        top: 30%;
+        left: 25%;
+        color:black;
+        width: 50%;
+    }
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 200%;
+        position: absolute;
+        top: 60%;
+        left: 25%;
+        color: black;
+        width: 50%;
+    }
+    
+    #titulo-encabezado-blanco{
+        text-align: center;
+        font-size: 500%;
+        position: absolute;
+        top: 22%;
+        left: 25%;
+        color:white;
+        width: 50%;
+    }
+
+    #texto-encabezado-blanco{
+        text-align: center;
+        font-size: 200%;
+        position: absolute;
+        top: 60%;
+        left: 25%;
+        color: white;
+        width: 50%;
+    }
+
+    #descripción{
+        width: 50%;
+        font-size: 120%;
+        text-align: justify;
+    }
+
+    #Título{
+        width: 100%;
+        text-align: center;
+        font-size: 290%;
+        padding-top: 2%;
+    }
+    
+}
+
+@media screen and (max-width: 1121px) {
+
+    #opciones-navbar{
+        padding-left: 35%;
+    }
+
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 550%;
+        position: absolute;
+        top: 27%;
+        left: 25%;
+        color:black;
+        width: 50%;
+    }
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 150%;
+        position: absolute;
+        top: 57%;
+        left: 25%;
+        color: black;
+        width: 50%;
+    }
+    
+
+    #descripción{
+        width: 50%;
+        font-size: 100%;
+        text-align: justify;
+    }
+
+    #Título{
+        width: 100%;
+        text-align: center;
+        font-size: 280%;
+        padding-top: 2%;
+    }
+    
+    #informacion{
+        display: flex;
+        font-size: 100%;
+    }
+
+    #titulo-encabezado-blanco{
+        text-align: center;
+        font-size: 400%;
+        position: absolute;
+        top: 22%;
+        left: 25%;
+        color:white;
+        width: 50%;
+    }
+
+    #texto-encabezado-blanco{
+        text-align: center;
+        font-size: 150%;
+        position: absolute;
+        top: 60%;
+        left: 25%;
+        color: white;
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 1038px) {
+
+    #opciones-navbar{
+        padding-left: 30%;
+    }    
+
+    #descripción{
+        width: 50%;
+        font-size: 100%;
+        text-align: justify;
+    }
+
+    #Título{
+        width: 100%;
+        text-align: center;
+        font-size: 280%;
+        padding-top: 2%;
+    }
+    
+    #informacion{
+        display: flex;
+        font-size: 90%;
+    }
+
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 550%;
+        position: absolute;
+        top: 44%;
+        left: 25%;
+        color:black;
+        width: 50%;
+    }
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 150%;
+        position: absolute;
+        top: 70%;
+        left: 25%;
+        color: black;
+        width: 50%;
+    }
+
+    #titulo-encabezado-blanco{
+        text-align: center;
+        font-size: 300%;
+        position: absolute;
+        top: 45%;
+        left: 25%;
+        color:white;
+        width: 50%;
+    }
+
+    #texto-encabezado-blanco{
+        text-align: center;
+        font-size: 150%;
+        position: absolute;
+        top: 70%;
+        left: 25%;
+        color: white;
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 919px) {
+
+    #informacion{
+        display: flex;
+        font-size: 140%;
+        width: 100%;
+    }
+    
+    #contenido-general{
+        display: block;
+        width: 100%;
+    }
+
+    #trailer{
+        width: 100%;
+        text-align: center;
+        padding-right: 0%;
+    }
+
+    #descripción{
+        width: 100%;
+        font-size: 130%;
+        text-align: justify;
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+
+    #imagen{
+        text-align: center;
+        width: 100%;
+        padding-bottom: 3%;
+    }
+
+
+}
+
+@media screen and (max-width: 847px) {
+
+    #descripción{
+        width: 100%;
+        font-size: 130%;
+        text-align: justify;
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+
+    #imagen{
+        text-align: center;
+        width: 100%;
+        padding-bottom: 3%;
+    }
+
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 500%;
+        position: absolute;
+        top: 42%;
+        left: 25%;
+        color:black;
+        width: 50%;
+    }
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 150%;
+        position: absolute;
+        top: 65%;
+        left: 25%;
+        color: black;
+        width: 50%;
+    }
+
+    #titulo-encabezado-blanco{
+        text-align: center;
+        font-size: 280%;
+        position: absolute;
+        top: 40%;
+        left: 25%;
+        color:white;
+        width: 50%;
+    }
+
+    #texto-encabezado-blanco{
+        text-align: center;
+        font-size: 130%;
+        position: absolute;
+        top: 65%;
+        left: 25%;
+        color: white;
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 739px) {
+
+    #descripción{
+        width: 100%;
+        font-size: 130%;
+        text-align: justify;
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+
+    #imagen{
+        text-align: center;
+        width: 100%;
+        padding-bottom: 3%;
+    }
+
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 450%;
+        position: absolute;
+        top: 39%;
+        left: 25%;
+        color:black;
+        width: 50%;
+    }
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 130%;
+        position: absolute;
+        top: 62%;
+        left: 25%;
+        color: black;
+        width: 50%;
+    }
+
+    #titulo-encabezado-blanco{
+        text-align: center;
+        font-size: 250%;
+        position: absolute;
+        top: 40%;
+        left: 25%;
+        color:white;
+        width: 50%;
+    }
+
+    #texto-encabezado-blanco{
+        text-align: center;
+        font-size: 100%;
+        position: absolute;
+        top: 65%;
+        left: 25%;
+        color: white;
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 655px) {
+
+    #descripción{
+        width: 100%;
+        font-size: 100%;
+        text-align: justify;
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+
+    #imagen{
+        text-align: center;
+        width: 100%;
+        padding-bottom: 3%;
+    }
+
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 400%;
+        position: absolute;
+        top: 39%;
+        left: 25%;
+        color:black;
+        width: 50%;
+    }
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 100%;
+        position: absolute;
+        top: 62%;
+        left: 25%;
+        color: black;
+        width: 50%;
+    }
+
+    #footer{
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0.1);
+        align-content: center;
+        text-align: center;
+        padding-top: 1%;
+        font-size: 150%;
+    }
+
+    #titulo-encabezado-blanco{
+        text-align: center;
+        font-size: 250%;
+        position: absolute;
+        top: 38%;
+        left: 25%;
+        color:white;
+        width: 50%;
+    }
+
+    #texto-encabezado-blanco{
+        text-align: center;
+        font-size: 100%;
+        position: absolute;
+        top: 62%;
+        left: 25%;
+        color: white;
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 603px) {
+
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 400%;
+        position: absolute;
+        top: 36%;
+        left: 25%;
+        color:black;
+        width: 50%;
+    }
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 100%;
+        position: absolute;
+        top: 53%;
+        left: 25%;
+        color: black;
+        width: 50%;
+    }
+
+    #footer{
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0.1);
+        align-content: center;
+        text-align: center;
+        padding-top: 1%;
+        font-size: 150%;
+    }
+
+    #informacion{
+        display: flex;
+        font-size: 120%;
+        width: 100%;
+    }
+
+    #titulo-encabezado-blanco{
+        text-align: center;
+        font-size: 230%;
+        position: absolute;
+        top: 35%;
+        left: 25%;
+        color:white;
+        width: 50%;
+    }
+
+    #texto-encabezado-blanco{
+        text-align: center;
+        font-size: 100%;
+        position: absolute;
+        top: 56%;
+        left: 25%;
+        color: white;
+        width: 50%;
+    }
+
+    #Título{
+        width: 100%;
+        text-align: center;
+        font-size: 250%;
+        padding-top: 2%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+    #titulo-encabezado-blanco{
+        text-align: center;
+        font-size: 200%;
+        position: absolute;
+        top: 33%;
+        left: 25%;
+        color:white;
+        width: 50%;
+    }
+
+    #texto-encabezado-blanco{
+        text-align: center;
+        font-size: 100%;
+        position: absolute;
+        top: 52%;
+        left: 25%;
+        color: white;
+        width: 50%;
+    }
+
+    #Título{
+        width: 100%;
+        text-align: center;
+        font-size: 200%;
+        padding-top: 2%;
+    }
+}
+
+@media screen and (max-width: 490px) {
+
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 300%;
+        position: absolute;
+        top: 36%;
+        left: 25%;
+        color:black;
+        width: 50%;
+    }
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 100%;
+        position: absolute;
+        top: 50%;
+        left: 25%;
+        color: black;
+        width: 50%;
+    }
+
+    #footer{
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0.1);
+        align-content: center;
+        text-align: center;
+        padding-top: 1%;
+        font-size: 150%;
+    }
+
+    #informacion{
+        display: flex;
+        font-size: 100%;
+        width: 100%;
+    }
+
+    #opciones-navbar{
+        padding-left: 15%;
+    }
+
+    #footer{
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0.1);
+        align-content: center;
+        text-align: center;
+        padding-top: 1%;
+        font-size: 120%;
+    }
+}
+
+@media screen and (max-width: 448px) {
+
+    #titulo-encabezado-blanco{
+        text-align: center;
+        font-size: 170%;
+        position: absolute;
+        top: 33%;
+        left: 25%;
+        color:white;
+        width: 50%;
+    }
+
+    #texto-encabezado-blanco{
+        text-align: center;
+        font-size: 80%;
+        position: absolute;
+        top: 48%;
+        left: 25%;
+        color: white;
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 436px) {
+
+    #titulo-encabezado{
+        text-align: center;
+        font-size: 250%;
+        position: absolute;
+        top: 36%;
+        left: 25%;
+        color:black;
+        width: 50%;
+    }
+
+    #texto-encabezado{
+        text-align: center;
+        font-size: 80%;
+        position: absolute;
+        top: 48%;
+        left: 25%;
+        color: black;
+        width: 50%;
+    }
+
+    #informacion{
+        display: flex;
+        font-size: 100%;
+        width: 100%;
+    }
+
+    #footer{
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0.1);
+        align-content: center;
+        text-align: center;
+        padding-top: 1%;
+        font-size: 120%;
+    }
+}
+
+@media screen and (max-width: 416px) {
+
+    #informacion{
+        display: flex;
+        font-size: 90%;
+        width: 100%;
+    }
+
+    #descripción{
+        font-size: 90%;
+        text-align: justify;
+    }
+
+}
+
+@media screen and (max-width: 416px) {
+
+    #informacion{
+        display: flex;
+        font-size: 90%;
+        width: 100%;
+    }
+    
+    #descripción{
+        font-size: 90%;
+        text-align: justify;
+    }
 }
