@@ -820,17 +820,3 @@
     }
 
 }
-
-@media screen and (max-width: 416px) {
-
-    #informacion{
-        display: flex;
-        font-size: 90%;
-        width: 100%;
-    }
-    
-    #descripción{
-        font-size: 90%;
-        text-align: justify;
-    }
-}
