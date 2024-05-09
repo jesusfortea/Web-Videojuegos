@@ -143,6 +143,28 @@
     padding-right: 15%;
 }
 
+#personajes{
+    width: 100%;
+    display: flex;
+    padding-left: 1%;
+}
+
+#personaje-zona{
+    width: 32%;
+    padding: 3%;
+}
+
+#texto-imagen{
+    text-align: center;
+    font-size: 130%;
+    width: 100%;
+    padding-top: 2%;
+}
+
+#imagen-pers{
+    width: 100%;
+}
+
 #footer{
     width: 100%;
     background-color: rgba(0, 0, 0, 0.1);
